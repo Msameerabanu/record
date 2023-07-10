@@ -1,0 +1,6 @@
+create table register(
+    uname1 varchar(20),
+    email varchar(20),
+    upswd1 varchar(20),
+    upswd2 varchar(20)
+    )
